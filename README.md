@@ -1,5 +1,7 @@
 # ts-esm-template
 
+[![Node.js CI](https://github.com/liudonghua123/ts-esm-template/actions/workflows/node.js.yml/badge.svg)](https://github.com/liudonghua123/ts-esm-template/actions/workflows/node.js.yml)
+
 This is a simple NodeJS template project using typescript, for vanilla javascript version, see also [esm-template](https://github.com/liudonghua123/esm-template).
 
 ## Support features
@@ -11,7 +13,7 @@ This is a simple NodeJS template project using typescript, for vanilla javascrip
 
 - [x] Add unit tests
 - [ ] Format and Lint
-- [ ] Add github actions for testing
+- [x] Add github actions for testing
 
 
 ## License
