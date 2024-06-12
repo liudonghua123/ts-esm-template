@@ -12,7 +12,7 @@ This is a simple NodeJS template project using typescript, for vanilla javascrip
 ## TODOs
 
 - [x] Add unit tests
-- [ ] Format and Lint
+- [x] Format and Lint
 - [x] Add github actions for testing
 
 

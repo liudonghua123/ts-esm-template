@@ -1,8 +1,8 @@
-const world = 'world';
+const world = "world";
 
 /**
  * say hello to someone
- * 
+ *
  * @param who - the person you want to say hello
  * @returns the message to say hello
  */
