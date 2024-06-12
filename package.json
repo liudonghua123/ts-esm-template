@@ -1,0 +1,19 @@
+{
+  "name": "ts-esm-template",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "type": "module",
+  "author": "Donghua Liu <liudonghua123@gmail.com> (https://liudonghua.com/)",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "doc": "typedoc src/index.ts",
+    "test": "node --import tsx --test ./test/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.2",
+    "tsx": "^4.15.2",
+    "typedoc": "^0.25.13",
+    "typescript": "^5.4.5"
+  }
+}
