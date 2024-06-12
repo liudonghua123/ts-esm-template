@@ -5,6 +5,15 @@
   "type": "module",
   "author": "Donghua Liu <liudonghua123@gmail.com> (https://liudonghua.com/)",
   "license": "MIT",
+  "keywords": ["template", "typescript", "typedoc", "tsx"],
+  "homepage": "https://github.com/liudonghua123/ts-esm-template#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liudonghua123/ts-esm-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/liudonghua123/ts-esm-template/issues"
+  },
   "scripts": {
     "build": "tsc",
     "doc": "typedoc src/index.ts",
